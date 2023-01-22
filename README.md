@@ -1,2 +1,2 @@
-# companion-module-[replace with module name]
+# Globcon osc interface for companion
 See [HELP.md](./HELP.md) and [LICENSE](./LICENSE)
